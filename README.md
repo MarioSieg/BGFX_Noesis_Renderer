@@ -10,4 +10,4 @@ so it is NOT a plug and play repository.<br>
 But it should give you an idea and enough sample code<br>
 to replace some engine specific parts with your own code and make it work.<br>
 <br>
-Some code is C++ 20 so maybe you have to downgrade it to make it work with an older standard or compiler
+The code is C++ 20 so maybe you have to downgrade it to make it work with an older standard or compiler
